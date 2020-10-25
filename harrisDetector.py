@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import cv2
 
-image = cv2.imread('C:/Users/Mohit K/Desktop/datasets/line.png')
+image = cv2.imread('.../line.png')
 
 image_copy = np.copy(image)
 
