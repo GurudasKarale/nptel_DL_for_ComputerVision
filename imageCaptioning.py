@@ -19,7 +19,7 @@ np.random.seed(0)
 #### YOUR CODE STARTS HERE ####
 # Check availability of GPU and set the device accordingly
 device =torch.device('cpu')
-#### YOUR CODE ENDS HERE ####
+### YOUR CODE ENDS HERE ###
 
 class Vocabulary(object):
     def __init__(self):
