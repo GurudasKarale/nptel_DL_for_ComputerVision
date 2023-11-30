@@ -1,2 +1,2 @@
-# nptel_DL_for_ComputerVision
+# NPTEL_Deep Learning_for_ComputerVision_solutions_2020
  
